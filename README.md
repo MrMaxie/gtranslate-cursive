@@ -16,4 +16,4 @@ UserScript it's a script which use browser extenstion as interface to inject cus
 
 There are two ways to install. Manual, in case you have to copy and paste the script yourself. Or automatic (in case you have some UserScript extension installed that allows automatic installation) - then click the link below.
 
-[**Install**](gtranslate-cursive.user.js)
+[**Install**](https://github.com/MrMaxie/gtranslate-cursive/raw/master/gtranslate-cursive.user.js)
